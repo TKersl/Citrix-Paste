@@ -1,7 +1,10 @@
 This is a simple Auto Hotkey script that will enable you to paste plaintext into your Citrix client.
-Per word-of-god (Seb), this is not to be used where CBA users can see it - no instant password etc.
+Per word-of-god (Seb), this is not to be used where end users can see it - no instant password etc.
 
-
+Instructions:
+Install Auto Hotkey from https://www.autohotkey.com/
+Download/save the AHK file from this repository.
+Run the file, you can now paste into your Citrix jumphost.
 
 version 1
 release version, allows pasting into citrix
